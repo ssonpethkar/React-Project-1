@@ -20,3 +20,30 @@ framework vs library
     legacy code 
 4. BAAS APPS
     social media clone, e-commerce app,...
+
+
+## official Document :  https://react.dev
+
+## Installation : 
+1. install node 
+2. create project
+npx create-react-app basic-react-01
+    npx- node package executor
+    create-react-app : utility(software)
+3.   cd basic-react-01                npm start or npm run start
+
+
+https://vitejs.dev/
+npm create vite@latest ( to create vite project)
+ cd 01vite-project
+  npm install
+  npm run dev
+ 
+
+https://stackblitz.com/
+
+
+jsx
+ 
+
+ https://github.com/facebook/react/tree/main/scripts
